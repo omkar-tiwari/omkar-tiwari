@@ -1,104 +1,162 @@
-::: {align="center"}
-# Omkar Tiwari
+<!-- ============================================================
+  GitHub Profile README
+  How to use: create a PUBLIC repo named exactly "omkar-tiwari"
+  (same as your username), add this file as README.md. Done.
+  Search for "EDIT" to find the spots to personalise.
+============================================================= -->
 
-**Java Backend Developer \| Spring Boot \| REST APIs \| MySQL**
+<div align="center">
 
-Building backend skills through Java, practical projects, and consistent
-problem-solving.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Omkar%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
 
-`<a href="https://github.com/omkar-tiwari">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/omkar-tiwari-357a70300/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}`</a>`{=html}
-`<img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">`{=html}
-`<img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">`{=html}
-:::
+<a href="https://github.com/omkar-tiwari">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Omkar+%F0%9F%91%8B;Developer+%7C+Problem+Solver+%7C+Lifelong+Learner;Open+to+collaboration+and+new+opportunities" alt="Typing SVG" />
+</a>
 
-------------------------------------------------------------------------
+<br/>
 
-## Profile
+<a href="https://www.linkedin.com/in/omkar-tiwari-357a70300/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/omkar-tiwari">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/omkartiwari/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="mailto:your.email@example.com"> <!-- EDIT -->
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-Computer Science student at **Ambalika Institute of Management and
-Technology**, focused on Java backend development. Interested in
-building maintainable REST APIs, integrating relational databases, and
-learning secure application design with Spring.
+<br/><br/>
 
--   **Focus:** Java, Spring Boot, REST APIs, MySQL
--   **Practicing:** Data Structures and Algorithms in Java
--   **Goal:** Contribute to reliable, maintainable backend systems
+<img src="https://komarev.com/ghpvc/?username=omkar-tiwari&label=Profile%20Views&color=2c5364&style=flat-square" alt="profile views"/>
 
-## Skills
+</div>
 
-  -----------------------------------------------------------------------
-  Area                                Skills
-  ----------------------------------- -----------------------------------
-  **Language**                        Java, SQL
+---
 
-  **Backend Development**             Spring Boot, Spring MVC, REST APIs
+## 👨‍💻 About Me
 
-  **Data & Persistence**              MySQL, Spring Data JPA, Hibernate
+```yaml
+name:      Omkar Tiwari
+role:      Software Developer            # EDIT
+location:  India                         # EDIT
+focus:     Web development, clean code, problem solving   # EDIT
+learning:  System design, cloud, new frameworks           # EDIT
+```
 
-  **Security**                        Spring Security, JWT *(learning /
-                                      project use)*
+- 🔭 Currently working on **your current project** <!-- EDIT -->
+- 🌱 Currently learning **a technology you're exploring** <!-- EDIT -->
+- 🤝 Looking to collaborate on **open-source and impactful projects**
+- 💬 Ask me about **your areas of expertise** <!-- EDIT -->
+- ⚡ Fun fact: **add something memorable** <!-- EDIT -->
 
-  **Tools**                           Git, GitHub, Maven, Postman,
-                                      Eclipse
+---
 
-  **Fundamentals**                    OOP, Collections, Exception
-                                      Handling, Dependency Injection, DSA
-  -----------------------------------------------------------------------
+## 🛠️ Tech Stack
 
-## Projects
+<!-- EDIT: add or remove icons. Full list: https://github.com/tandpfun/skill-icons -->
 
-### Job Portal --- Full-Stack Application
+<div align="center">
 
-`Java` `Spring Boot` `Spring Security` `JWT` `Spring Data JPA`
-`Hibernate` `MySQL` `React`
+**Languages**
 
--   Intended to connect job seekers with job opportunities through a web
-    application.
--   Backend structure uses REST APIs and relational persistence for core
-    application workflows.
--   Security scope includes authentication and role-based access using
-    Spring Security and JWT.
--   **Repository:** Add project repository link.
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,bash&theme=dark" alt="languages"/>
 
-### E-Commerce Application
+**Frontend & Backend**
 
-`Java` `Spring Boot` `Spring Security` `Hibernate` `MySQL` `React`
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,django,flask&theme=dark" alt="web"/>
 
--   Application concept for product browsing and common shopping
-    workflows.
--   REST APIs connect the frontend with backend services.
--   JPA/Hibernate supports relational persistence, with Spring Security
-    explored for access control.
--   **Repository:** Add project repository link.
+**Databases, Cloud & Tools**
 
-> Keep project bullets aligned with features you have implemented. Add
-> repository links, screenshots, or a live demo when available.
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,git,github,linux,vscode&theme=dark" alt="tools"/>
 
-## Currently Improving
+</div>
 
--   Designing and testing REST APIs with Spring Boot.
--   Database modelling and persistence with MySQL and Spring Data JPA.
--   Authentication and authorization with Spring Security and JWT.
--   DSA and problem-solving in Java.
+---
 
-## GitHub Overview
+## 📊 GitHub Stats
 
-::: {align="center"}
-`<img height="150" src="https://github-readme-stats.vercel.app/api?username=omkar-tiwari&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">`{=html}
-`<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-tiwari&layout=compact&hide_border=true" alt="Top languages">`{=html}
+<div align="center">
 
-`<img src="https://streak-stats.demolab.com?user=omkar-tiwari&hide_border=true" alt="GitHub streak">`{=html}
-:::
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=omkar-tiwari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-tiwari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
 
-## Contact
+<img src="https://streak-stats.demolab.com?user=omkar-tiwari&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 
--   **GitHub:** [omkar-tiwari](https://github.com/omkar-tiwari)
--   **LinkedIn:** [Omkar
-    Tiwari](https://www.linkedin.com/in/omkar-tiwari-357a70300/)
+</div>
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
-*Learning by building. Improving through consistency.*
-:::
+## 🧩 LeetCode: Consistency & Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/omkartiwari/">
+  <img src="https://leetcard.jacoblin.cool/omkartiwari?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and submission heatmap"/>
+</a>
+
+*Solving problems regularly to sharpen data structures, algorithms, and logical thinking.*
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- EDIT: replace "repo-name" with your real repositories -->
+
+<div align="center">
+
+<a href="https://github.com/omkar-tiwari/repo-name-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar-tiwari&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="project 1"/>
+</a>
+<a href="https://github.com/omkar-tiwari/repo-name-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar-tiwari&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="project 2"/>
+</a>
+
+<a href="https://github.com/omkar-tiwari/repo-name-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar-tiwari&repo=repo-name-3&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="project 3"/>
+</a>
+<a href="https://github.com/omkar-tiwari/repo-name-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar-tiwari&repo=repo-name-4&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="project 4"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omkar-tiwari&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-tiwari&bg_color=0d1117&color=36BCF7&line=2c5364&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always happy to talk about tech, collaborations, or opportunities.
+
+<a href="https://www.linkedin.com/in/omkar-tiwari-357a70300/">
+  <img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+⭐ *If you like something here, a star on a repo goes a long way!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
